@@ -4,7 +4,7 @@
 
 - 👩‍💻 I’m a full stack web developer
 - 🌱 Ironhack bootcamp grad (feb/2022)
-- 💰 Former banker in career change
+- :bank: Former banker in career change
 - ❤️ Love travelling, music, series and movies
 - 🌎 From Brazil living in France
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilana-sene/)
